@@ -1,5 +1,5 @@
 $(function () {
-  var includes = $('[data-include]')
+  var includes = $('[content-include]')
   $.each(includes, function () {
     var file = $(this).data('include')
     $(this).load(file)
