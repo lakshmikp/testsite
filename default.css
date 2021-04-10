@@ -12,6 +12,11 @@ h1 {
   font-weight: normal;
   margin-top: 5px;
 }
+ #header {
+            width: 100%;
+            background: light-blue;
+        }
+
  #footer {
             position: fixed;
             bottom: 0;
