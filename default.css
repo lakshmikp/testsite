@@ -1,6 +1,6 @@
 body {
   margin: 25px;
-  background-color: rgb(240,240,240);
+  background-color: #ffffcc;
   font-family: arial, sans-serif;
   font-size: 14px;
   background: yellow;
@@ -14,13 +14,13 @@ h1 {
 }
  #header {
             width: 100%;
-            background: light-blue;
+            background: #ffccff;
         }
 
  #footer {
             position: fixed;
             bottom: 0;
             width: 100%;
-            background: grey;
+            background: #9999ff;
         }
 
